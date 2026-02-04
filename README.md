@@ -5,7 +5,7 @@
 
 Hey there! Welcome to my Movie Recommender System, a fun project I built to help you discover movies you’ll love. Pick a movie you enjoy, and this app will suggest similar ones, complete with posters to spark your interest. It’s powered by machine learning and wrapped in a slick Streamlit interface. I’m Poornasai, and I had a blast putting this together—hope you enjoy it!
 
-Check out my GitHub: [kpoornasai121](https://github.com/kpoornasai121)
+Check out my GitHub: [RevanthGangapur](https://github.com/RevanthGangapur)
 
 ## What’s This All About?
 
@@ -33,8 +33,8 @@ Want to try it out on your own machine? Here’s how to get it running:
 
 1. **Grab the Code**:
    ```bash
-      git clone https://github.com/kpoornasai121/Movie-Recommender-System.git
-      cd movie-recommender-system
+      git clone https://github.com/RevanthGangapur/Movie_Recommender_System.git
+      cd Movie_Recommender_System
    ```
 2. **Get the Datasets**:
   - Download tmdb_5000_movies.csv and tmdb_5000_credits.csv from Kaggle.
